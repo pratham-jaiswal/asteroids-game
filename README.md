@@ -1,4 +1,4 @@
-# Snake
+# Asteroids
 ​A simple Asteroids game!
 
 ## Controls
